@@ -1,0 +1,3 @@
+[submodule "Smart_Helmet_Demonstration/yolov5"]
+	path = Smart_Helmet_Demonstration/yolov5
+	url = https://github.com/ultralytics/yolov5.git
